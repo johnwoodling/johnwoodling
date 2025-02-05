@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ☁️ 
+- 🔭 I’m currently working on L2C path
+- LinkedIn: https://www.linkedin.com/in/johnwoodling/
